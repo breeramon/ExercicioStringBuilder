@@ -1,0 +1,6 @@
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\ExercicioStringBuilder.exe.config
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\ExercicioStringBuilder.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\ExercicioStringBuilder.pdb
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\ExercicioStringBuilder.csprojResolveAssemblyReference.cache
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\ExercicioStringBuilder.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\ExercicioStringBuilder.pdb
